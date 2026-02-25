@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi , I'am sanjana K<br>Informaation and Engineering Student<br>currently Learning:Python
+Hi , I'am sanjana K<br>Informaation science and Engineering Student<br>currently Learning:Python
 
 
 ## 🌐 Socials:
